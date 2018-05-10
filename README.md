@@ -5,4 +5,4 @@ https://news.ycombinator.com/item?id=15892898
 
 【利用Deep Learning 於金融交易市場獲利】
 https://www.qplum.co/investing-library/79/is-deep-learning-used-in-trading?utm_medium=quora&utm_source=gchak
-![Alt text](https://imageshack.com/i/pmdmLmFHj)
+![Alt text](https://imagizer.imageshack.com/v2/xq90/922/dmLmFH.jpg)
