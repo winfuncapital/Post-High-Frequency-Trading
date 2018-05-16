@@ -10,3 +10,7 @@ https://www.qplum.co/investing-library/79/is-deep-learning-used-in-trading?utm_m
 【全球半導體產業，中國政府積極成為龍頭】
 https://www.wsj.com/articles/china-plans-47-billion-fund-to-boost-its-semiconductor-industry-1525434907
 ![Alt text](https://imageshack.com/a/img924/5830/1VVra2.jpg)
+
+【從私募圈策略轉型，觀察量化與多頭策略之變化】
+https://mp.weixin.qq.com/s/kg5VozMmRgs1WNR-mlFiYA
+![Alt text](https://imageshack.com/a/img922/3351/fJMtZa.jpg)
