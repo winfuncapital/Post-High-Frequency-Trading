@@ -14,3 +14,7 @@ https://www.wsj.com/articles/china-plans-47-billion-fund-to-boost-its-semiconduc
 【從私募圈策略轉型，觀察量化與多頭策略之變化】
 https://mp.weixin.qq.com/s/kg5VozMmRgs1WNR-mlFiYA
 ![Alt text](https://imageshack.com/a/img922/3351/fJMtZa.jpg)
+
+【軟體工程師，為什麼要使用Unicode與Character Sets】
+https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
+![Alt text](https://imageshack.com/a/img921/2689/t4YK5x.jpg)
