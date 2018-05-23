@@ -18,3 +18,8 @@ https://mp.weixin.qq.com/s/kg5VozMmRgs1WNR-mlFiYA
 【軟體工程師，為什麼要使用Unicode與Character Sets】
 https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
 ![Alt text](https://imageshack.com/a/img921/2689/t4YK5x.jpg)
+
+【美國大學CMU，提供AI人工智慧學位】
+https://www.cs.cmu.edu/news/carnegie-mellon-launches-undergraduate-degree-artificial-intelligence
+
+![Alt text](https://imageshack.com/a/img921/4200/GBGgcx.jpg)
