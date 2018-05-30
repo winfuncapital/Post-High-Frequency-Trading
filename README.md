@@ -1,4 +1,9 @@
 # Posts High Frequency Trading (HFT)
+【全球趨勢，資工系發展已遠超越電機系】
+https://oops.udn.com/oops/story/6698/2775952
+
+![Alt text](https://imageshack.com/a/img924/7024/3ikkxB.jpg)
+
 【美國大學CMU，提供AI人工智慧學位】
 https://www.cs.cmu.edu/news/carnegie-mellon-launches-undergraduate-degree-artificial-intelligence
 
