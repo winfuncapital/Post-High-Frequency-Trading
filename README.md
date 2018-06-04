@@ -1,4 +1,9 @@
 # Posts High Frequency Trading (HFT)
+【如何透過Netmap開源，實現Kernel Bypass】
+https://www.bbc.co.uk/rd/blog/2018-04-high-speed-networking-open-source-kernel-bypass
+
+![Alt text](https://imageshack.com/a/img923/253/Ch3HCI.jpg)
+
 【全球趨勢，資工系發展已遠超越電機系】
 https://oops.udn.com/oops/story/6698/2775952
 
