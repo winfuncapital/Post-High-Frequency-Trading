@@ -1,4 +1,8 @@
 # Posts High Frequency Trading (HFT)
+【選擇權熊市策略 - 買權空價差之延伸】
+https://www.quantinsti.com/blog/bear-call-ladder-options-trading-strategy-python/
+![Alt text](https://imageshack.com/a/img924/9674/myNVU7.jpg)
+
 【如何透過Netmap開源，實現Kernel Bypass】
 https://www.bbc.co.uk/rd/blog/2018-04-high-speed-networking-open-source-kernel-bypass
 
