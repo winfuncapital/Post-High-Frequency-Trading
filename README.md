@@ -1,4 +1,8 @@
-# Posts High Frequency Trading (HFT)
+# High Frequency Trading (HFT)
+【高頻交易 – 技術架構解說】
+https://www.qplum.co/stackworld
+![Alt text](https://imageshack.com/a/img922/8607/t3LcAA.jpg)
+
 【選擇權熊市策略 - 買權空價差之延伸】
 https://www.quantinsti.com/blog/bear-call-ladder-options-trading-strategy-python/
 ![Alt text](https://imageshack.com/a/img924/9674/myNVU7.jpg)
