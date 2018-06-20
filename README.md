@@ -1,4 +1,8 @@
 # High Frequency Trading (HFT)
+【駭客技巧 – 初階實作篇】
+http://www.catonmat.net/blog/low-level-bit-hacks-you-absolutely-must-know/
+![Alt text](https://imageshack.com/a/img923/4553/pmwM6X.jpg)
+
 【高頻交易 – 技術架構解說】
 https://www.qplum.co/stackworld
 ![Alt text](https://imageshack.com/a/img922/8607/t3LcAA.jpg)
