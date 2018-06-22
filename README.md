@@ -1,5 +1,5 @@
 # High Frequency Trading (HFT)
-【駭客技巧 – 初階實作篇】
+【位元操作技巧】
 http://www.catonmat.net/blog/low-level-bit-hacks-you-absolutely-must-know/
 ![Alt text](https://imageshack.com/a/img923/4553/pmwM6X.jpg)
 
