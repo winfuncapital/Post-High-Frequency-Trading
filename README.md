@@ -1,4 +1,8 @@
 # High Frequency Trading (HFT)
+【新創軟體公司，如何找出商業模式？】
+https://www.indiehackers.com/round-table/how-to-come-up-with-profitable-online-business-ideas
+![Alt text](https://imageshack.com/a/img923/252/KQMtmd.jpg)
+
 【位元操作技巧】
 http://www.catonmat.net/blog/low-level-bit-hacks-you-absolutely-must-know/
 ![Alt text](https://imageshack.com/a/img923/4553/pmwM6X.jpg)
