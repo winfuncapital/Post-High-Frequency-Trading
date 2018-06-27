@@ -1,4 +1,8 @@
 # High Frequency Trading (HFT)
+【透過數據實測分析，外匯交易策略】
+http://epchan.blogspot.com/2018/02/fx-order-flow-as-predictor.html
+![Alt text](https://imageshack.com/a/img922/4771/XOvCKh.png)
+
 【新創軟體公司，如何找出商業模式？】
 https://www.indiehackers.com/round-table/how-to-come-up-with-profitable-online-business-ideas
 ![Alt text](https://imageshack.com/a/img923/252/KQMtmd.jpg)
