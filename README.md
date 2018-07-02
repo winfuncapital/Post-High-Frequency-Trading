@@ -1,4 +1,8 @@
 # High Frequency Trading (HFT)
+【如何有效降低C語言中的程式毀損】
+http://mymicrocontroller.com/2018/04/03/what-happens-before-main-function-is-executed-in-c-and-why-is-it-important/
+![Alt text](https://imageshack.com/a/img921/549/MWss33.jpg)
+
 【透過數據實測分析，外匯交易策略】
 http://epchan.blogspot.com/2018/02/fx-order-flow-as-predictor.html
 ![Alt text](https://imageshack.com/a/img922/4771/XOvCKh.png)
