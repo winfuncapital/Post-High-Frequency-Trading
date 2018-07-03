@@ -1,5 +1,5 @@
 # High Frequency Trading (HFT)
-【如何有效降低C語言中的程式毀損】
+【 C 語言中 main() 執行前動作】
 http://mymicrocontroller.com/2018/04/03/what-happens-before-main-function-is-executed-in-c-and-why-is-it-important/
 
 ![Alt text](https://imageshack.com/a/img921/549/MWss33.jpg)
