@@ -1,4 +1,8 @@
 # High Frequency Trading (HFT)
+【如何選擇下一階段程式語言？】
+http://matt.might.net/articles/best-programming-languages/
+![Alt text](https://imageshack.com/a/img921/2219/uYoSTe.jpg)
+
 【 C 語言中 main() 執行前動作】
 http://mymicrocontroller.com/2018/04/03/what-happens-before-main-function-is-executed-in-c-and-why-is-it-important/
 
