@@ -1,4 +1,8 @@
 # High Frequency Trading (HFT)
+【加密貨幣，背後代表的價值】
+https://avc.com/2018/05/is-buying-crypto-assets-investing/
+![Alt text](https://imageshack.com/a/img922/1300/RNXQqJ.jpg)
+
 【如何選擇下一階段程式語言？】
 http://matt.might.net/articles/best-programming-languages/
 ![Alt text](https://imageshack.com/a/img921/2219/uYoSTe.jpg)
