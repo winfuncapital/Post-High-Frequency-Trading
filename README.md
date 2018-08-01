@@ -1,4 +1,8 @@
 # High Frequency Trading (HFT)
+【私募如何操作經營牌照】
+https://mp.weixin.qq.com/s/Z3odVTEwQ8Jr5fDybsmj9Q
+![Alt text](https://imageshack.com/a/img923/68/IbB5PG.jpg)
+
 【加密貨幣，背後代表的價值】
 https://avc.com/2018/05/is-buying-crypto-assets-investing/
 ![Alt text](https://imageshack.com/a/img922/1300/RNXQqJ.jpg)
