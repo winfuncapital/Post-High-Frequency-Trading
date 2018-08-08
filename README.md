@@ -1,4 +1,9 @@
 # High Frequency Trading (HFT)
+
+【深度工作力的實踐方式】
+https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/
+![Alt text](https://imageshack.com/a/img923/8585/Hs2QU1.png)
+
 【私募如何操作經營牌照】
 https://mp.weixin.qq.com/s/Z3odVTEwQ8Jr5fDybsmj9Q
 ![Alt text](https://imageshack.com/a/img923/68/IbB5PG.jpg)
