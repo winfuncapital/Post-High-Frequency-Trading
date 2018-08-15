@@ -2,7 +2,7 @@
 
 【資料科學，關鍵的五個面向】
 http://cs109.github.io/2015/index.html
-![Alt text](https://imageshack.com/a/img923/3350/NLt3nV.png)
+![Alt text](https://imageshack.com/a/img923/4374/wc2jmI.png)
 
 【深度工作力的實踐方式】
 https://goo.gl/RwGT5a
